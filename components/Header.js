@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <div className="container">
         <Link href="/">
-          <h2>Bellas App</h2>
+          <h2>Bella Journal</h2>
         </Link>
       </div>
     </header>

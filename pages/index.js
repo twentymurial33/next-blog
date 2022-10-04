@@ -8,7 +8,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Murials Interview Blog</title>
+        <title>Bella's Diary</title>
       </Head>
       <div className="posts">
         {posts.map((post, index) => (
@@ -22,7 +22,6 @@ export default function Home({ posts }) {
 export async function getStaticProps() {
   //Get files from the posts dir
   const files = fs.readdirSync(path.join("posts"));
-  console.log(files);
 
   //Get slug and formatter from posts
 
