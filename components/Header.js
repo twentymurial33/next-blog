@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <div className="container">
         <Link href="/">
-          <h2>Bella Journal</h2>
+          <h1>Bella </h1>
         </Link>
       </div>
     </header>

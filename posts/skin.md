@@ -1,8 +1,7 @@
 ---
-title: "Bella's Prescriptions"
+title: "Summer"
 date: "Sep 26 2022"
-excerpt: "List of her prescriptions"
-cover_image:
+cover_image: "/images/bella5.jpg"
 ---
 
 ## Heading Two

@@ -8,6 +8,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background: black;
 }
 
 p {
@@ -26,7 +27,7 @@ img {
 }
 
 header {
-  background: orange;
+  background: lightblue;
   color: black;
   padding: 10px;
   margin-bottom: 40px;
@@ -110,7 +111,8 @@ ol {
 }
 
 .post-body pre {
-  background: #f4f4f4;
+  /* background: #f4f4f4; */
+  background: black;
   padding: 20px;
   margin: 20px 0;
   line-height: 2.3;

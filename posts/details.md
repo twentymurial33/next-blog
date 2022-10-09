@@ -1,8 +1,7 @@
 ---
-title: "Bella's Details"
+title: "Fall"
 date: "Sep 26, 2022"
-excerpt: "Bella's Details"
-cover_image: "/images/image1.jpg"
+cover_image: "/images/bella3.jpg"
 ---
 
 ## Heading Two

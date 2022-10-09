@@ -1,8 +1,7 @@
 ---
-title: "Bella's Favorite Activities"
+title: "Fall"
 date: "Sep 26 2022"
-excerpt: "List of favorite things"
-cover_image: "/images/image2.jpg"
+cover_image: "/images/bella.JPEG"
 ---
 
 ## Heading Two
