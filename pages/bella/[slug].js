@@ -19,7 +19,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params: { slug } }) {
-  console.log(slug);
+  return slug;
 }
 
 export default postPage;
