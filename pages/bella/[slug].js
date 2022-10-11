@@ -17,7 +17,6 @@ export async function getStaticPaths() {
     fallback: false,
   };
 }
-console.log(paths);
 
 export async function getStaticProps({ params: { slug } }) {
   console.log(slug);
